@@ -1,0 +1,98 @@
+#rjavascript {
+  display: none;
+  width: 250px;
+  height: 150px;
+}
+
+#javascript {
+  background-color: blue;
+  width: 250px;
+  height: 150px;
+}
+
+#roperators {
+  display: none;
+  width:
+}
+
+#operators {
+background-color: red;
+width: 250px;
+height: 150px;
+}
+
+#rvariables {
+  display: none;
+}
+
+#rvnc {
+  display: none;
+}
+
+#rfunctions {
+  display: none;
+}
+
+#rmethods {
+  display: none;
+}
+
+#rarguments {
+  display: none;
+}
+
+#rparameters {
+  display: none;
+}
+
+#rreturn {
+  display: none;
+}
+
+#rcm {
+  display: none;
+}
+#rstrings {
+  display: none;
+}
+
+#rbooleans {
+  display: none;
+}
+
+#rundefined {
+  display: none;
+}
+
+#rNaN {
+  display: none;
+}
+
+#resc {
+  display: none;
+}
+
+#ralert {
+  display: none;
+}
+
+#rcomments {
+  display: none;
+}
+
+#rjquery {
+  display: none;
+}
+
+#rattributes {
+  display: none;
+}
+
+/* styling format */
+
+
+.col-lg-3 {
+  width: 250px;
+  height: 200px;
+  text-align: center;
+}
