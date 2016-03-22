@@ -1,0 +1,44 @@
+body {
+    background-color: #ccddff;
+}
+
+.container {
+  text-align: center;
+}
+
+ol {
+  list-style: none;
+}
+
+h1 {
+  font-family: helvetica;
+}
+
+.black-background {
+  background-color: black;
+  color: white;
+}
+.black-background img {
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
+
+.tan-background {
+  background-color: tan;
+}
+
+.tan-background img {
+  background-color: tan;
+    border: 2px solid black;
+}
+
+.btn1{
+  background-color: black;
+  color: white;
+}
+
+.btn2{
+  background-color: tan;
+  color: black;
+}
