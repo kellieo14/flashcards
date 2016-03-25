@@ -1,9 +1,22 @@
 .flashcard {
   display: none;
+  background-color: gray;
+  border: 3px solid black;
+  max-width: 400px;
+  height: 300px;
+}
+
+.flashcard h4 {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 2em;
 }
 
 .flashcard p {
   display: none;
+  font-family: cursive;
+  font-size: 1.5em;
+  margin: 1em;
 }
 
 .flashcard-active {
